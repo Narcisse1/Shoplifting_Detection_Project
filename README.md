@@ -79,4 +79,4 @@ This project is a powerful foundation. Consider these next steps to take it to t
 *   **Alert System:** Integrate an event-based system to trigger notifications when a high-confidence shoplifting event is detected.
 
 ---
-*Project maintained by [Your Name/GitHub Handle]*
+*Project maintained by [Narcisse Ndongkain]*
