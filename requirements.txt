@@ -1,0 +1,9 @@
+# Core dependencies for the Shoplifting Detection Project
+ultralytics
+roboflow
+opencv-python
+numpy
+matplotlib
+pandas
+tqdm
+ipython # For notebook environment
